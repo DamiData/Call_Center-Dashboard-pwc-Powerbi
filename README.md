@@ -12,8 +12,10 @@
 
 This call center dashboard project aims to provide insights into call center performance and customer interactions. The dashboard reflects key performance indicators (KPIs) and metrics relevant to customer satisfaction and call center efficiency.
 
-![Dashboa![Call Center Dashboard](https://github.com/DamiData/Call_Center-Dashboard-pwc-/assets/161587504/45703d6e-b30f-4a7a-97ed-829f240c3875)
-rd](image_url)
+![Dashboard](![Call Center Dashboard](https://github.com/DamiData/Call_Center-Dashboard-pwc-/assets/161587504/07881e88-8b68-426f-a40f-ac0b05258f86)
+)
+
+
 
 
 
